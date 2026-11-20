@@ -1,8 +1,8 @@
 # The World Dispatch — 20 November 2026
 
-[![make.fun entry](https://make.fun/badge/entry.svg)](https://make.fun/bounty/news-image-20261120)
-[![referral](https://make.fun/badge/referral.svg)](https://make.fun/r/xea0c951)
-[![deterministic](https://make.fun/badge/deterministic.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/akbarzn1311/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/akbarzn1311/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world's news of Friday 20 November 2026: **The World Dispatch**,
 a one-page newspaper front page with 27 stories from 7 regions — 11 leads with source badges,
